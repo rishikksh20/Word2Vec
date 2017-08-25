@@ -1,2 +1,2 @@
 # Word2Vec
-Word2Vec tutorial using tensorflow
+Word2Vec tutorials using tensorflow
